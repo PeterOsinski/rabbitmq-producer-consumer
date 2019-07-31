@@ -1,1 +1,2 @@
-# rabbitmq-producer-consumer
+A repository for blog post: https://codefibershq.com/blog/rabbitmq-cluster-on-docker-with-nodejs-in-5-minutes
+A repozytorium dla wpisu na blogu: https://codefibers.pl/blog/klaster-rabbitmq-na-dockerze-z-nodejs-w-5-minut
