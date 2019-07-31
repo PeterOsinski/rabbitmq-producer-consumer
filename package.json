@@ -1,0 +1,23 @@
+{
+  "name": "prod-cons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "dependencies": {
+    "amqp-connection-manager": "^3.0.0",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinache/rabbitmq-producer-consumer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spinache/rabbitmq-producer-consumer/issues"
+  },
+  "homepage": "https://github.com/spinache/rabbitmq-producer-consumer#readme"
+}
